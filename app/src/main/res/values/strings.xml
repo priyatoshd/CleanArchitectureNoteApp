@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">CleanArchitectureNoteApp</string>
+
+    <!-- Notes List Screen  -->
+    <string name="title_text">Title</string>
+    <string name="date_text">Date</string>
+    <string name="color_text">Color</string>
+    <string name="ascending_text">Ascending</string>
+    <string name="descending_text">Descending</string>
+    <string name="delete_note_content_description">Delete Note</string>
+    <string name="add_note_content_description">Add New Note</string>
+    <string name="your_notes_text">Your notes</string>
+    <string name="sort_content_description">Sort Notes</string>
+    <string name="note_deleted_text">Note deleted</string>
+    <string name="save_note_content_description">Save Note</string>
 </resources>
