@@ -14,11 +14,10 @@ This is a simple notes app for Android that lets you create, edit and delete not
 - Use MVVM design pattern with State and flows
 
 ## Screenshots
-<img src="https://user-images.githubusercontent.com/37956164/224562604-e699f80c-36d1-4229-ab17-bec237669fbd.png" data-canonical-src="https://user-images.githubusercontent.com/37956164/224562606-e8ce29ce-6029-4ec7-8be2-d8c4a4497ae9.png" width="200" height="400" />
+<img src="https://user-images.githubusercontent.com/37956164/224562604-e699f80c-36d1-4229-ab17-bec237669fbd.png" width="200" height="400" />
+<img src="https://user-images.githubusercontent.com/37956164/224562606-e8ce29ce-6029-4ec7-8be2-d8c4a4497ae9.png" width="200" height="400" />
+<img src="https://user-images.githubusercontent.com/37956164/224562607-c2d4e203-e9e9-4624-a34a-c52436d4b60a.png" width="200" height="400" />
 
-![Screenshot_20230312_230505](https://user-images.githubusercontent.com/37956164/224562604-e699f80c-36d1-4229-ab17-bec237669fbd.png | width=100)
-![Screenshot_20230312_230547](https://user-images.githubusercontent.com/37956164/224562606-e8ce29ce-6029-4ec7-8be2-d8c4a4497ae9.png | width=100)
-![Screenshot_20230312_230619](https://user-images.githubusercontent.com/37956164/224562607-c2d4e203-e9e9-4624-a34a-c52436d4b60a.png | width=100)
 https://user-images.githubusercontent.com/37956164/224562617-bfffa1cb-60bc-442e-88e2-a6d84c831f38.mp4
 
 ## Installation
