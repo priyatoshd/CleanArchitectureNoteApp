@@ -34,7 +34,7 @@ object AppModule {
 
     @Provides
     @Singleton
-    fun provideNoteUSeCases(repository: NoteRepository): NoteUseCases {
+    fun provideNoteUseCases(repository: NoteRepository): NoteUseCases {
         return NoteUseCases(
             getNotesUseCase = GetNotesUseCase(repository),
             deleteNoteUseCase = DeleteNoteUseCase(repository),

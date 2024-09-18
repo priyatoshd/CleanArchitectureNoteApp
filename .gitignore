@@ -2,6 +2,7 @@
 .gradle
 ScreenShots
 /local.properties
+/.idea/*.*
 /.idea/caches
 /.idea/libraries
 /.idea/modules.xml
